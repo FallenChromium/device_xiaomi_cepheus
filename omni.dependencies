@@ -1,0 +1,8 @@
+[
+  { 
+    "remote": "github",
+    "repository": "FallenChromium/android_device_xiaomi_sm8150-common",
+    "target_path": "device/xiaomi/sm8150-common",
+    "branch": "android-10"
+  }
+]
